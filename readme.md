@@ -1,8 +1,8 @@
-<img src="https://readme-typing-svg.herokuapp.com?vCenter=true&lines=Hello!;HTML+CSS+Javascript+Coder;Check+out+my+music!;Check+out+my+scripts!;">
+<img src="https://readme-typing-svg.herokuapp.com?vCenter=true&lines=Hello!;HTML,+CSS,+and+Javascript+Coder;Check+out+my+music!;Check+out+my+youtube!;">
 
 ***am idiot coder***    
-I mostly code with HTML, Java Script, and CSS, and creat things for my Family, Friends, and for personal use!    
-Hit me up if you want somthing simple made
+I mostly code with HTML, Java Script, and CSS, and creat things for my family, friends, and for personal use!    
+Hit me up if you want somthing simple made or for formating.
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=Piplup7575&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
   
