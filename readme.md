@@ -16,4 +16,8 @@ Hit me up if you want somthing simple made
   <img src="https://img.shields.io/badge/Uses-Discord-blue/?logo=discord&logoColor=warning&color=7289DA" alt="discord">
   <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Piplup7575?color=yellow&label=User%20Stars&logo=github&logoColor=yellow">
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/Piplup7575?color=g&label=User%20Followers&logo=github">
-       </p>
+</p>
+
+<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Piplup7575&show_icons=true&theme=dark&locale=en&langs_count=10&layout=compact" alt="Piplup7575" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Piplup7575&show_icons=true&theme=dark&locale=en" alt="Piplup7575" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Piplup7575&theme=dark" alt="Piplup7575" /></p><br>
