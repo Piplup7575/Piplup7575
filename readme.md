@@ -8,7 +8,6 @@ Hit me up if you want somthing simple made or for formating.
   
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=Piplup7575&label=Profile Visitors&color=001eff&style=flat" alt="Piplup7575" /> 
-  <img src="https://img.shields.io/badge/Listens%20to-Spotify-blue/?logo=spotify&logoColor=warning&color=1DB954" alt="music">
   <img src="https://img.shields.io/badge/Knows-JavaScript-blue/?logo=javascript&logoColor=warning&color=yellow" alt="js">
   <img src="https://img.shields.io/badge/Knows-HTML-blue/?logo=html5&logoColor=warning&color=orange" alt="html">
   <img src="https://img.shields.io/badge/Knows-CSS-blue/?logo=css3&logoColor=blue&color=blue" alt="css">
