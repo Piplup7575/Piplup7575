@@ -20,7 +20,7 @@ Hit me up if you want somthing simple made or for formating.
 </p>
 
 <p align="left"> <a href="https://soundcloud.com/piplup7575" target="blank"><img src="https://img.shields.io/badge/Soundcloud-Piplup7575-orange?style=for-the-badge&logo=Soundcloud"/></a>
-<p align="left"> <a href="https://www.youtube.com/channel/UCGbdp5QuzybZQs_SvXgV22A" target="blank"><img src="https://img.shields.io/badge/Youtube-Piplup7575-red?style=for-the-badge&logo=youtube"/></a>
+<a href="https://www.youtube.com/channel/UCGbdp5QuzybZQs_SvXgV22A" target="blank"><img src="https://img.shields.io/badge/Youtube-Piplup7575-red?style=for-the-badge&logo=youtube"/></a></p>
 
 <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Piplup7575&show_icons=true&theme=dark&locale=en&langs_count=10&layout=compact" alt="Piplup7575" /></p>
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Piplup7575&show_icons=true&theme=dark&locale=en" alt="Piplup7575" /></p>
