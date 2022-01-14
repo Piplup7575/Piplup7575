@@ -23,5 +23,3 @@ Hit me up if you want somthing simple made
 
 <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Piplup7575&show_icons=true&theme=dark&locale=en&langs_count=10&layout=compact" alt="Piplup7575" /></p>
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Piplup7575&show_icons=true&theme=dark&locale=en" alt="Piplup7575" /></p>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Piplup7575&theme=dark" alt="Piplup7575" /></p><br>
- 
