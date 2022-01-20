@@ -1,3 +1,4 @@
+<p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?vCenter=true&lines=Hello!;HTML,+CSS,+and+Javascript+Coder;Check+out+my+music!;Check+out+my+youtube!;">
 
 ***am idiot coder***    
@@ -23,3 +24,4 @@ Hit me up if you want somthing simple made or for formating.
 
 <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Piplup7575&show_icons=true&theme=dark&locale=en&langs_count=10&layout=compact" alt="Piplup7575" /></p>
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Piplup7575&show_icons=true&theme=dark&locale=en" alt="Piplup7575" /></p>
+</p>
