@@ -1,7 +1,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?vCenter=true&lines=Hello!;HTML,+CSS,+and+Javascript+Coder;Check+out+my+music!;Check+out+my+youtube!;">
 
 ***am idiot coder***    
-I mostly code with HTML, Java Script, and CSS, and creat things for my family, friends, and for personal use!    
+I mostly code with HTML, Java Script, and CSS, and create things for my family, friends, and for personal use!    
 Hit me up if you want somthing simple made or for formating.
   
 <p align="center">
