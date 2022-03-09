@@ -4,6 +4,8 @@
 I mostly code with HTML, Java Script, and CSS, and create things for my family, friends, and for personal use!    
 Hit me up if you want somthing simple made or for formating.
   
+Why has it come to me just porting games and not making things fkdjghsdflkjghsldfjkhcviuybxoci  
+  
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=Piplup7575&theme=discord" alt="Piplup7575" />   
           </p> 
