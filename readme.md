@@ -32,22 +32,3 @@ Why has it come to me just porting games and not making things fkdjghsdflkjghsld
   
 More Info on Piplup7575's Github Account: https://octoprofile.vercel.app/user?id=Piplup7575
 ㅤ    
- ㅤ     
-ㅤ      
-  ㅤ    
-    ㅤ  
-    ㅤ  
-    ㅤ  
-    ㅤ  
-    ㅤ  
-    ㅤ  
-    ㅤ  
-    ㅤ  
-    ㅤ  
-    ㅤ  
-    ㅤ  
-    ㅤ  
-    ㅤ  
-    ㅤ  
-    ㅤ  
-vehan stfu https://stoopid.piplup7575.repl.co/
