@@ -5,6 +5,8 @@ I mostly code with HTML, Java Script, and CSS, and create things for my family, 
 Hit me up if you want somthing simple made or for formating.
   
 Why has it come to me just porting games and not making things fkdjghsdflkjghsldfjkhcviuybxoci  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=3kh0&repo=3kh0.github.io&theme=dark)](https://github.com/3kh0/3kh0.github.io)  
+there take it
   
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=Piplup7575&theme=discord" alt="Piplup7575" />   
