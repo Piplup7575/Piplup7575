@@ -12,6 +12,8 @@ there take it
     <img src="https://github-profile-trophy.vercel.app/?username=Piplup7575&theme=discord" alt="Piplup7575" />   
           </p> 
           
+[![snk](https://raw.githubusercontent.com/orangemn6/orangemn6/output/github-contribution-grid-snake.svg)](https://github.com/Platane/snk)
+          
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=Piplup7575&label=Profile Visitors&color=001eff" alt="Piplup7575" /> 
   <img src="https://img.shields.io/badge/Knows-JavaScript-blue/?logo=javascript&logoColor=warning&color=yellow" alt="js">
