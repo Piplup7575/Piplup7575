@@ -12,7 +12,7 @@ there take it
     <img src="https://github-profile-trophy.vercel.app/?username=Piplup7575&theme=discord" alt="Piplup7575" />   
           </p> 
           
-[![snk](https://raw.githubusercontent.com/piplup7575/piplup7575/output/github-contribution-grid-snake.svg)](https://github.com/Platane/snk)
+![github contribution grid snake animation](https://raw.githubusercontent.com/piplup7575/piplup7575/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/piplup7575/piplup7575/output/github-contribution-grid-snake.svg#gh-light-mode-only)
           
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=Piplup7575&label=Profile Visitors&color=001eff" alt="Piplup7575" /> 
