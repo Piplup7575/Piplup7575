@@ -28,11 +28,10 @@ there take it
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Piplup7575&show_icons=true&theme=dark&locale=en" alt="Piplup7575" /><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Piplup7575&show_icons=true&theme=dark&locale=en&langs_count=10&layout=compact" alt="Piplup7575" /></p>
 
-<p>Github contributions snake :D</p>          
-<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="snk">
-
 <p align="center">
 <table><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/Piplup7575/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/Piplup7575/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/Piplup7575/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table></p>
   
 More Info on Piplup7575's Github Account: https://octoprofile.vercel.app/user?id=Piplup7575
-ㅤ    
+
+<p>Github contributions snake :D</p>          
+<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="snk">
