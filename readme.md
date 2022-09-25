@@ -6,7 +6,7 @@ Hit me up if you want somthing simple made or for formating.
   
 <a align="center" href="https://piplup7575.github.io">My Website</a>  
   
-yipee
+yipee  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=3kh0&repo=3kh0.github.io&theme=dark)](https://github.com/3kh0/3kh0.github.io)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PlutoniumDevelopment&repo=plutonium&theme=dark)](https://github.com/3kh0/3kh0.github.io)  
 
