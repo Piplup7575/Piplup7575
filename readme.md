@@ -4,10 +4,12 @@
 I mostly code with HTML, Java Script, and CSS, and create things for my family, friends, and for personal use!    
 Hit me up if you want somthing simple made or for formating.
   
-Why has it come to me just porting games and not making things fkdjghsdflkjghsldfjkhcviuybxoci  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=3kh0&repo=3kh0.github.io&theme=dark)](https://github.com/3kh0/3kh0.github.io)  
-there take it
+<a align="center" href="https://piplup7575.github.io">My Website</a>  
   
+yipee
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=3kh0&repo=3kh0.github.io&theme=dark)](https://github.com/3kh0/3kh0.github.io)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PlutoniumDevelopment&repo=plutonium&theme=dark)](https://github.com/3kh0/3kh0.github.io)  
+
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=Piplup7575&theme=discord" alt="Piplup7575" />   
           </p> 
