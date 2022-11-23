@@ -8,7 +8,7 @@ Hit me up if you want somthing simple made or for formating.
   
 yipee  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=3kh0&repo=3kh0.github.io&theme=dark)](https://github.com/3kh0/3kh0.github.io)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PlutoniumDevelopment&repo=plutonium&theme=dark)](https://github.com/PlutoniumDevelopment/plutonium)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Piplup7575&repo=plutonium&theme=dark)](https://github.com/Piplup7575/plutonium)  
 
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=Piplup7575&theme=discord" alt="Piplup7575" />   
