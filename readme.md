@@ -1,8 +1,9 @@
-<img src="https://readme-typing-svg.herokuapp.com?vCenter=true&lines=Hello!;HTML,+CSS,+and+Javascript+Coder;Check+out+my+music!;Check+out+my+projects!;">
+Heyo! I'm Piplup!
+I'm an aspireing full stack devloper, who many uses HTML/CSS, JS, Py, anc C++
+You can find me on Discord at Piplup7575#7575
 
-***am idiot coder***    
-I mostly code with HTML, Java Script, and CSS, and create things for my family, friends, and for personal use!    
-Hit me up if you want somthing simple made or for formating.
+[![Join my server!](https://invidget.switchblade.xyz/PrWzd9eBQx?theme=dark)](https://discord.gg/PrWzd9eBQx)
+
   
 <a align="center" href="https://piplup7575.github.io">My Website</a>  
   
