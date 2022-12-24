@@ -1,5 +1,5 @@
 Heyo! I'm Piplup!
-I'm an aspireing full stack devloper, who many uses HTML/CSS, JS, Py, anc C++
+I'm an aspireing full stack devloper, who mostly uses HTML/CSS, JS, Py, anc C++
 You can find me on Discord at Piplup7575#7575
 
 [![Join my server!](https://invidget.switchblade.xyz/PrWzd9eBQx?theme=dark)](https://discord.gg/PrWzd9eBQx)
