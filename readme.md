@@ -1,15 +1,21 @@
+<p align="center">
 Heyo! I'm Piplup!
-I'm an aspiring full stack devloper, who mostly uses HTML/CSS, JS, Py, anc C++
-You can find me on Discord at Piplup7575#5497
+I'm an aspiring full stack devloper, who mostly uses HTML/CSS, JS, Py, anc C++<br>
+You can find me on Discord at Piplup7575#7575
+</p>
 
+<p align="center">
 <a href="https://discord.gg/PrWzd9eBQx" align="center"><img src="https://invidget.switchblade.xyz/PrWzd9eBQx?theme=dark"></a>
-  
-<a align="center" href="https://piplup7575.github.io">My Website</a>  
-  
-yipee  
+</p>
 
-<a href="https://github.com/3kh0/3kh0.github.io" align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=3kh0&repo=3kh0.github.io&theme=dark"></a>
-<a href="https://github.com/Piplup7575/plutonium" align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=3kh0&repo=3kh0.github.io&theme=dark"></a>
+<p align="center">
+yipee  
+</p>
+
+<p align="center">
+<a href="https://github.com/3kh0/3kh0.github.io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=3kh0&repo=3kh0.github.io&theme=dark"></a>
+<a href="https://github.com/Piplup7575/plutonium"><img src="https://github-readme-stats.vercel.app/api/pin/?username=3kh0&repo=3kh0.github.io&theme=dark"></a>
+</p>
 
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=Piplup7575&theme=discord" alt="Piplup7575" />   
@@ -31,7 +37,8 @@ yipee
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Piplup7575&show_icons=true&theme=dark&locale=en" alt="Piplup7575" /><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Piplup7575&show_icons=true&theme=dark&locale=en&langs_count=10&layout=compact" alt="Piplup7575" /></p>
 
+<table><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/Piplup7575/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/Piplup7575/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/Piplup7575/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table>
+
 <p align="center">
-<table><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/Piplup7575/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/Piplup7575/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/Piplup7575/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table></p>
-  
 More Info on Piplup7575's Github Account: https://octoprofile.vercel.app/user?id=Piplup7575
+</p>
