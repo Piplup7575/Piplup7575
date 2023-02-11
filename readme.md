@@ -2,8 +2,7 @@ Heyo! I'm Piplup!
 I'm an aspiring full stack devloper, who mostly uses HTML/CSS, JS, Py, anc C++
 You can find me on Discord at Piplup7575#5497
 
-[![Join my server!](https://invidget.switchblade.xyz/PrWzd9eBQx?theme=dark)](https://discord.gg/PrWzd9eBQx)
-
+<a href="https://discord.gg/PrWzd9eBQx"><img src="https://invidget.switchblade.xyz/PrWzd9eBQx?theme=dark" style="text-align:center"></a>
   
 <a align="center" href="https://piplup7575.github.io">My Website</a>  
   
