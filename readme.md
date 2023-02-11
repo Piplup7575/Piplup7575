@@ -2,13 +2,14 @@ Heyo! I'm Piplup!
 I'm an aspiring full stack devloper, who mostly uses HTML/CSS, JS, Py, anc C++
 You can find me on Discord at Piplup7575#5497
 
-<a href="https://discord.gg/PrWzd9eBQx"><img src="https://invidget.switchblade.xyz/PrWzd9eBQx?theme=dark" align="center"></a>
+<a href="https://discord.gg/PrWzd9eBQx" align="center"><img src="https://invidget.switchblade.xyz/PrWzd9eBQx?theme=dark"></a>
   
 <a align="center" href="https://piplup7575.github.io">My Website</a>  
   
 yipee  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=3kh0&repo=3kh0.github.io&theme=dark)](https://github.com/3kh0/3kh0.github.io)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Piplup7575&repo=plutonium&theme=dark)](https://github.com/Piplup7575/plutonium)  
+
+<a href="https://github.com/3kh0/3kh0.github.io" align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=3kh0&repo=3kh0.github.io&theme=dark"></a>
+<a href="https://github.com/Piplup7575/plutonium" align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=3kh0&repo=3kh0.github.io&theme=dark"></a>
 
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=Piplup7575&theme=discord" alt="Piplup7575" />   
