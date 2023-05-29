@@ -13,7 +13,7 @@ yipee
 </p>
 
 <p align="center">
-<a href="https://github.com/3kh0/3kh0.github.io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=3kh0&repo=3kh0.github.io&theme=dark"></a>
+<a href="https://github.com/NebulaServices/3kh0"><img src="https://github-readme-stats.vercel.app/api/pin/?username=3kh0&repo=3kh0.github.io&theme=dark"></a>
 <a href="https://github.com/Piplup7575/plutonium"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Piplup7575&repo=plutonium&theme=dark"></a>
 </p>
 
