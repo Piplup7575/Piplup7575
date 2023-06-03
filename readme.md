@@ -5,7 +5,7 @@ You can find me on Discord at Piplup7575#7575
 </p>
 
 <p align="center">
-<a href="https://discord.gg/PrWzd9eBQx" align="center"><img src="https://invidget.switchblade.xyz/PrWzd9eBQx?theme=dark"></a>
+<a href="https://discord.gg/PrWzd9eBQx" align="center"><img src="https://invidget.switchblade.xyz/PrWzd9eBQx?theme=dark"></a><br>
 <a href="https://discord.com/users/728619566997045290" align="center"><img src="https://lanyard.cnrad.dev/api/728619566997045290"></a>
 </p>
 
