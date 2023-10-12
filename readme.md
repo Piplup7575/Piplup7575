@@ -1,7 +1,7 @@
 <p align="center">
 Heyo! I'm Piplup!
-I'm an aspiring full stack devloper, who mostly uses HTML/CSS, JS, Py, anc C++<br>
-You can find me on Discord at Piplup7575#7575
+I'm an aspiring amateur devloper, I mostly use HTML/CSS, JS, Py, anc C++<br>
+You can find me on Discord on my server (see below) or with the username piplup7575
 </p>
 
 <p align="center">
@@ -27,7 +27,6 @@ yipee
   <img src="https://img.shields.io/badge/Knows-HTML-blue/?logo=html5&logoColor=warning&color=orange" alt="html">
   <img src="https://img.shields.io/badge/Knows-CSS-blue/?logo=css3&logoColor=blue&color=blue" alt="css">
   <img src="https://img.shields.io/badge/Knows-MarkDown-FFF?logo=markdown" alt="markdown">
-  <img src="https://img.shields.io/badge/Uses-stackoverflow-blue/?logo=stackoverflow&logoColor=warning&color=ef8236" alt="stack">
   <img src="https://img.shields.io/badge/Uses-Discord-blue/?logo=discord&logoColor=warning&color=7289DA" alt="discord">
   <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Piplup7575?color=yellow&label=User%20Stars&logo=github&logoColor=yellow">
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/Piplup7575?color=g&label=User%20Followers&logo=github">
