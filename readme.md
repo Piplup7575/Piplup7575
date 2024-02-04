@@ -13,10 +13,10 @@ You can find me on Discord on my server (see below) or on most platforms with th
 yipee  
 </p>
 
-<p align="center">
+<!-- <p align="center">
 <a href="https://github.com/NebulaServices/3kh0"><img src="https://github-readme-stats.vercel.app/api/pin/?username=NebulaServices&repo=3kh0&theme=dark"></a>
 <a href="https://github.com/Piplup7575/plutonium"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Piplup7575&repo=plutonium&theme=dark"></a>
-</p>
+</p> -->
 
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=Piplup7575&theme=discord" alt="Piplup7575" />   
