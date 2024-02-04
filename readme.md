@@ -1,7 +1,7 @@
 <p align="center">
-Heyo! I'm Piplup!
-I'm an aspiring amateur devloper, I mostly use HTML/CSS, JS, Py, anc C++<br>
-You can find me on Discord on my server (see below) or with the username piplup7575
+Hello! I'm Piplup!
+I'm an amateur devloper, mostly frontend, with some backend expirence<br>
+You can find me on Discord on my server (see below) or on most platforms with the username piplup7575
 </p>
 
 <p align="center">
