@@ -22,7 +22,7 @@ yipee
     <img src="https://github-profile-trophy.vercel.app/?username=Piplup7575&theme=discord" alt="Piplup7575" />   
           </p> 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=Piplup7575&label=Profile Visitors&color=001eff" alt="Piplup7575" /> 
+  <img src="https://komarev.com/ghpvc/?username=Piplup7575&color=blue&label=Profile+Visitors" alt="Piplup7575" /> 
   <img src="https://img.shields.io/badge/Knows-JavaScript-blue/?logo=javascript&logoColor=warning&color=yellow" alt="js">
   <img src="https://img.shields.io/badge/Knows-HTML-blue/?logo=html5&logoColor=warning&color=orange" alt="html">
   <img src="https://img.shields.io/badge/Knows-CSS-blue/?logo=css3&logoColor=blue&color=blue" alt="css">
